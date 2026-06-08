@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 hii my name is aman
-=======
 hii my name is  aman
 learning devops header-update
+learning devops header-fix
