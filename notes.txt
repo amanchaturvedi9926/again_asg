@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hii my name is aman
+=======
+hii my name is  aman
+learning devops
+>>>>>>> main
